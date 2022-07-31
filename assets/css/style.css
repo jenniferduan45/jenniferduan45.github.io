@@ -859,6 +859,10 @@ section .container {
 .portfolio-details .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #18d26e;
 }
+.portfolio-details-img {
+  width: 620px;
+  height: auto;
+}
 
 /*--------------------------------------------------------------
 # Contact
